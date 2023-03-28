@@ -1,0 +1,14 @@
+.form-container {
+  text-align: center;
+}
+.test{
+  padding-left: 40%;
+}
+
+input[type="text"] {
+  width: 300px;
+  margin-top: 10px;
+}
+input[type="submit"] {
+margin-left: 20px;
+}
